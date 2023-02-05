@@ -5,7 +5,7 @@ Decided to use Jupyter notebooks for ease of commenting and displaying Plots and
 In this repo:
 
 **data** folder: The input data provided
-</br>
+
 **outputs** folder: The output dataframes from Q1 and Q2
 
 Question 3 can also be found in a .py file
