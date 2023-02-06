@@ -13,4 +13,4 @@ Question 3 and Question 4 can also be found in a .py file
 
 They can be ran from terminal like this: 
 - python3 question3.py - Here the example list with instructions is in the script
-- python3 question4.py '2020-04-20 08:00' '2022-04-20 12:00' 'Energy' '30MIN'
+- python3 question4.py '2022-04-20 08:00' '2022-04-20 12:00' 'Energy' '30MIN'
