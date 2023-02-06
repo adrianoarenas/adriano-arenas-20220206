@@ -47,7 +47,7 @@ def robot_x_y(input_list):
     return(sqrt(x**2 + y**2))
 
 
-input_list = [1, 'LEFT', 3, 4, 'BEGIN', 'LEFT', 4, 5, 3, 'RIGHT', 6, 'DOWN', 4, 6, 'UP', 'STOP', 4]
-
-robot_distance = robot_x_y(input_list)
-print(f"Total distance traveled from (0,0) is {robot_distance} units")
+if __name__ == '__main__':
+    input_list = [1, 'LEFT', 3, 4, 'BEGIN', 'LEFT', 4, 5, 3, 'RIGHT', 6, 'DOWN', 4, 6, 'UP', 'STOP', 4]
+    robot_distance = robot_x_y(input_list)
+    print(f"Total distance traveled from (0,0) is {robot_distance} units")
